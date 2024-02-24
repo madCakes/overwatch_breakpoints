@@ -1,0 +1,764 @@
+{
+  "heroes": [
+    {
+      "name": "ana",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "ashe",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "baptiste",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "bastion",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "brigette",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "cassidy",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "dva",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "doomfist",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "echo",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "genji",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "hanzo",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "illari",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "junkrat",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "kiriko",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "lifeweaver",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "lucio",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "mauga",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "mei",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "mercy",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "moira",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "orisa",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "pharah",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "ramattra",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "reaper",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "reinhardt",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "roadhog",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "sigma",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "soujourn",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "soldier76",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "sombra",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "symmetra",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "torbjorn",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "tracer",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "widowmaker",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "winston",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "wreckingBall",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "zarya",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    },
+    {
+      "name": "zenyatta",
+      "health": 250,
+      "armour": 0,
+      "shields": 0,
+      "primaryDamage": 70,
+      "secondaryDamage": 0,
+      "critMultiplier": 2,
+      "healing": 70,
+      "primaryRateOfFire": 0.8,
+      "rateOfHealing": 0.8,
+      "tickValue": 0.59,
+      "abilities": {
+        "abilityName": {
+          "dmg": 0,
+          "statusEffect": null,
+          "duration": 0
+        }
+      }
+    }
+  ]
+}
