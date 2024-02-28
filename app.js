@@ -1,5 +1,7 @@
-import express from "express";
-import cors from "cors";
+// Imports
+const express = require("express");
+const cors = require("cors");
+const path = require("path");
 
 // Apps
 const app = express();
@@ -8,4 +10,9 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-export default app;
+// Home route
+app.get("/", (req, res) =>
+  res.send("Welcome to the Overwatch breakpoint API!")
+);
+
+module.exports = app;
